@@ -1,1 +1,1 @@
-Readme acerca de git
+Readme acerca de git y ahora actualizada
